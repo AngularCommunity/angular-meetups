@@ -493,3 +493,9 @@ Das deutsche Portal zu @angular - News, Events, Meetups, Workshops
 * URL: [https://angularjs.de](https://angularjs.de)
 ---
 
+![ngWeber](https://pbs.twimg.com/profile_images/1088704325063340032/LbyKT4g1_400x400.jpg)
+## ngWeber
+Angular meetup (online and in person) in Weber County, UT
+* Location: Weber County, UT
+* Twitter: [@ng_weber](https://twitter.com/ng_weber)
+* YouTube: [ngWeber Channel](https://www.youtube.com/channel/UC9K-mQTazJCDs-8zervFLKA?view_as=subscriber)
