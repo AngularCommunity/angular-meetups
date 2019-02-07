@@ -1,7 +1,11 @@
 # Angular Conferences
 
 List of the Angular conferences and other events from around the world. It's based on the [corresponding Twitter list](https://twitter.com/ngCommunity/lists/angular-events/members) of [@ngCommunity](https://twitter.com/ngCommunity/).
-__Please, add your conference (or update the information) via pull requests.__
+_Please, add your conference (or update the information) via pull requests._
+
+See also:
+* [Calendar for the Angular community events happening across the globe](https://angularconferences.com/)
+* [Events with Angular team members participating](https://angular.io/events)
 
 ---
 
