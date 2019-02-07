@@ -2,9 +2,8 @@
 
 List of the Angular conferences and other events from around the world. It's based on the [corresponding Twitter list](https://twitter.com/ngCommunity/lists/angular-events/members) of [@ngCommunity](https://twitter.com/ngCommunity/).
 __Please, add your conference (or update the information) via pull requests.__
+
 ---
-
-
 
 ![NGRomeConf](https://pbs.twimg.com/profile_images/1090957096101822467/k6tT0dzE_normal.jpg)
 ## NGRomeConf
@@ -111,22 +110,6 @@ International @Angular Conference in Barcelona. Stay tuned!
 Thanks for coming! See you next year!
 * Twitter: [@ngconfil](https://twitter.com/ngconfil)
 * URL: [http://ng-conf.co.il](http://ng-conf.co.il)
----
-
-![JSCamp 2019](https://pbs.twimg.com/profile_images/1087340012109221889/dXT22EOs_normal.jpg)
-## JSCamp 2019
-Barcelona, 18-19 July 2019. International single-track and two-day conference covering all about modern web technologies. https://t.co/91xYWmhTyE
-* Location: Barcelona
-* Twitter: [@jscamp](https://twitter.com/jscamp)
-* URL: [https://jscamp.tech](https://jscamp.tech)
----
-
-![hackcolab](https://pbs.twimg.com/profile_images/1062007528706531329/IsVtvjDK_normal.jpg)
-## hackcolab
-Our mission at HackCoLab is to extend the use and understanding of technology and programming next to the citizens. Community. Barcelona.
-* Location: Sant Pere Santa Caterina i la Ribera, Barcelona
-* Twitter: [@hackcolab](https://twitter.com/hackcolab)
-* URL: [https://hackcolab.tech](https://hackcolab.tech)
 ---
 
 ![AngularConnect](https://pbs.twimg.com/profile_images/578876472875737088/mxduwMm2_normal.png)
