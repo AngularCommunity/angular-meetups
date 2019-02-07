@@ -499,3 +499,13 @@ Angular meetup (online and in person) in Weber County, UT
 * Location: Weber County, UT
 * Twitter: [@ng_weber](https://twitter.com/ng_weber)
 * YouTube: [ngWeber Channel](https://www.youtube.com/channel/UC9K-mQTazJCDs-8zervFLKA?view_as=subscriber)
+---
+
+![Angular Bolivia](https://pbs.twimg.com/profile_images/841389684584566784/WZnExC8e_normal.jpg)
+## Angular Bolivia
+Comunidad de Angular en Bolivia. Meetups y eventos mensuales con invitados especiales y un montón de gente increíble. / Angular community in Bolivia. Monthly meetups and events with special guests and a lot of amazing people.
+* Location: Cochabamba, Bolivia
+* Meetup: [Angular Bolivia](http://meetu.ps/c/36FDq/zlFnn/d)
+* Twitter: [@angularBolivia](https://twitter.com/angularBolivia)
+* YouTube: [Angular Bolivia](https://www.youtube.com/channel/UCkTe6tbnU9GhQ2VjpPBtgsw)
+* URL: [NG Bolivia](https://ng-bolivia.org/)
