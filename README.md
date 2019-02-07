@@ -1,5 +1,11 @@
 # Angular Meetups
-List of the Angular meetups and usergroups from around the world. It's based on the [corresponding Twitter list](https://twitter.com/ngCommunity/lists/angular-communities/members) of [@ngCommunity](https://twitter.com/ngCommunity/). Please, add your meetup (or update the information) via pull requests.
+List of the Angular meetups and usergroups from around the world. It's based on the [corresponding Twitter list](https://twitter.com/ngCommunity/lists/angular-communities/members) of [@ngCommunity](https://twitter.com/ngCommunity/). _Please, add your meetup (or update the information) via pull requests._
+
+See also:
+* [Angular conferences and other events](https://github.com/AngularCommunity/angular-meetups/blob/master/angular-conferences.md)
+* [Ionic events](https://github.com/AngularCommunity/angular-meetups/blob/master/ionic-meetups.md)
+
+---
 
 ![Angular Heidelberg](https://pbs.twimg.com/profile_images/1073947045029969921/rpord4qt_normal.jpg)
 ## Angular Heidelberg
@@ -298,14 +304,6 @@ Comunidad de Desarrolladores y Entusiastas de @angular en Venezuela. Usa nuestro
 * Location: Venezuela
 * Twitter: [@ngVenezuela](https://twitter.com/ngVenezuela)
 * URL: [http://ngvenezuela.org.ve/](http://ngvenezuela.org.ve/)
----
-
-![hackcolab](https://pbs.twimg.com/profile_images/1062007528706531329/IsVtvjDK_normal.jpg)
-## hackcolab
-Our mission at HackCoLab is to extend the use and understanding of technology and programming next to the citizens. Community. Barcelona.
-* Location: Sant Pere Santa Caterina i la Ribera, Barcelona
-* Twitter: [@hackcolab](https://twitter.com/hackcolab)
-* URL: [https://hackcolab.tech](https://hackcolab.tech)
 ---
 
 ![Angular Melbourne](https://pbs.twimg.com/profile_images/841963665746096128/qA9gzG89_normal.jpg)
