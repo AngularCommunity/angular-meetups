@@ -7,6 +7,17 @@ See also:
 
 ---
 
+<img src="https://secure.meetupstatic.com/photos/event/c/9/b/4/global_478491636.jpeg" width="60">
+
+## Niederrhein Valley
+
+🅰️ Niederrhein Valley Meetup, organised by Thorsten Rintelen from traperto GmbH
+
+- Location: Niederrhein, Kleve, Germany
+- Slack: [Invite](https://niederrheinvalley.slack.com/join/shared_invite/enQtNTQ1MDIxNDY3NjY4LWZkMjVkOGVjY2QwNjM2NDI2ZTdmZjk2MWVjYzMwMWZkNjFmNWIxMmY1M2FlZDk2ODE5YTMyMmZjMDY2YTg1YWE)
+
+---
+
 ![Angular Heidelberg](https://pbs.twimg.com/profile_images/1073947045029969921/rpord4qt_normal.jpg)
 ## Angular Heidelberg
 🅰️#Angular #Heidelberg Meetup, organised by @JohannesHoppe from @angular_schule 🆖➡️ Official Hashtag: #ngHeidelberg
