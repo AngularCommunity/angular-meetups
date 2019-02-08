@@ -156,7 +156,7 @@ ng-conf 2019 Grand America Hotel in Salt Lake City UT  - May 1st - 3rd, 2019 - T
 * URL: [http://ng-conf.org](http://ng-conf.org)
 ---
 
-![ng-India](https://www.ng-ind.com/ngindia2018/images/ngIndia_logo_dark_201801072056.jpg)
+![ng-India](https://global-uploads.webflow.com/5ae98eec19474ec4b00cd02a/5c5c01b341f5395dbad9dd3b_ng-India.png)
 ## ng-India
 ng-India 2019 Fortune Select Excalibur in Gurgaon, Haryana February 23, 2019 - India's biggest Angular Conference.
 * Location: Gurgaon, Haryana, India
