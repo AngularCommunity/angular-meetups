@@ -529,3 +529,11 @@ Angular meetup in Kansas City. Monthly meetups and building a collaborative Angu
 * GitHub: [@angularkc](https://github.com/angularkc)
 * Slack: [angularkc](https://angularkc.slack.com)
 ---
+
+![ng-India](https://global-uploads.webflow.com/5ae98eec19474ec4b00cd02a/5c5c01b341f5395dbad9dd3b_ng-India.png)
+## ng-India
+ng-India 2019 Fortune Select Excalibur in Gurgaon, Haryana February 23, 2019 - India's biggest Angular Conference.
+* Location: Gurgaon, Haryana, India
+* Twitter: [@geeknineseven](https://twitter.com/geeknineseven)
+* URL: [https://www.ng-ind.com/](https://www.ng-ind.com/)
+---
