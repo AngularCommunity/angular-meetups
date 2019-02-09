@@ -518,3 +518,14 @@ Comunidad de Angular en Bolivia. Meetups y eventos mensuales con invitados espec
 * Twitter: [@angularBolivia](https://twitter.com/angularBolivia)
 * YouTube: [Angular Bolivia](https://www.youtube.com/channel/UCkTe6tbnU9GhQ2VjpPBtgsw)
 * URL: [NG Bolivia](https://ng-bolivia.org/)
+---
+
+![Angular KC](https://pbs.twimg.com/profile_images/924590731771092993/y-Ukkejt_normal.jpg)
+## AngularKC
+Angular meetup in Kansas City. Monthly meetups and building a collaborative Angular community in Kansas City. 
+* Location: Kansas City metropolitan area serving both MO and KS
+* Meetup: [AngularKC](https://www.meetup.com/angularkc/)
+* Twitter: [@angularkc](https://twitter.com/angularkc)
+* GitHub: [@angularkc](https://github.com/angularkc)
+* Slack: [angularkc](https://angularkc.slack.com)
+---
