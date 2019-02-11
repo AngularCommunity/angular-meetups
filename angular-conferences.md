@@ -164,10 +164,10 @@ ng-India 2019 Fortune Select Excalibur in Gurgaon, Haryana February 23, 2019 - I
 * URL: [https://www.ng-ind.com/](https://www.ng-ind.com/)
 ---
 
-![Rocky Mountain Angular](https://pbs.twimg.com/profile_images/1073322041703419904/R53d0Zke_normal.jpg)
-## Rocky Mountain Angular
-The home of the Rocky Mountain Angular meetup group.
-* Location: Colorado
-* Twitter: [@RockyMtnAngular](https://twitter.com/RockyMtnAngular)
-* URL: [http://rmangular.org/](http://rmangular.orgv/)
+![Angular Denver](https://pbs.twimg.com/profile_images/1090018227281747970/IqGZlGGY_normal.jpg)
+## Angular Denver
+Angular Denver is a 2-day conference that takes place at The Curtis Hotel in Downtown Denver, CO.
+* Location: Denver, Colorado
+* Twitter: [@AngularDenver](https://twitter.com/AngularDenver)
+* URL: [https://angulardenver.com/](https://angulardenver.com/)
 ---
