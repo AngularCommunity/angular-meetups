@@ -545,3 +545,257 @@ The home of the Rocky Mountain Angular meetup group.
 * Twitter: [@RockyMtnAngular](https://twitter.com/RockyMtnAngular)
 * URL: [http://rmangular.org/](http://rmangular.org/)
 ---
+
+## Sacramento Angular
+* Location: Sacramento
+* URL: [https://www.meetup.com/Sacramento-Angular-Meetup/](https://www.meetup.com/Sacramento-Angular-Meetup/)
+---
+
+## AngularMadrid
+* Location: Madrid, Spain
+* URL: [https://www.meetup.com/Angular_Madrid/](https://www.meetup.com/Angular_Madrid/)
+---
+
+![Angular Montreal](https://pbs.twimg.com/profile_images/1012833845110960128/HUbWwE7Y_400x400.jpg)
+## Angular Montreal
+* Location: Montreal
+* URL: [https://www.meetup.com/Angular-Montreal/](https://www.meetup.com/Angular-Montreal/)
+* Twitter: [@AngularMontreal](https://twitter.com/angularmontreal)
+---
+
+## Angular Developers Philadelphia
+* Location: Philadelphia
+* URL: [https://www.meetup.com/Angular-Philly/](https://www.meetup.com/Angular-Philly/)
+---
+
+## Angular Austin
+* Location: Austin
+* URL: [https://www.meetup.com/AngularATX/](https://www.meetup.com/AngularATX/)
+---
+
+## AngularJS Ottawa
+* Location: Ottawa
+* URL: [https://www.meetup.com/AngularJS-Ottawa/](https://www.meetup.com/AngularJS-Ottawa//)
+---
+
+## AngularJS Portugal
+* Location: Portugal
+* URL: [https://www.meetup.com/AngularJS-Portugal](https://www.meetup.com/AngularJS-Portugal)
+---
+
+## AngularJS Toronto
+* Location: Toronto
+* URL: [https://www.meetup.com/AngularJS-Toronto/]()https://www.meetup.com/AngularJS-Toronto/
+---
+
+## AngularJS Ventura
+* Location: Ventura, CA
+* URL: [https://www.meetup.com/AngularJS-Ventura/](https://www.meetup.com/AngularJS-Ventura/)
+---
+
+## Milwaukee AngularJS
+* Location: Milwaukee
+* URL: [https://www.meetup.com/AngularMKE/](https://www.meetup.com/AngularMKE/)
+---
+
+## Angular Roma
+* Location: Roma
+* URL: [https://www.meetup.com/angularRome/](https://www.meetup.com/angularRome/)
+---
+
+## Dutch AngularJS Group
+* Location: Utrecht, Netherlands
+* URL: [https://www.meetup.com/Dutch-AngularJS-group/](https://www.meetup.com/Dutch-AngularJS-group/)
+---
+
+## RVAngular
+* Location: Richmond, VA.
+* URL: [https://www.meetup.com/RVAngular/](https://www.meetup.com/RVAngular/)
+---
+
+![stl-angular](https://pbs.twimg.com/profile_images/1084587987185201154/CuYYRehZ_400x400.jpg)
+## STL Angular Meetup
+* Location: STL Angular
+* Twitter: [@stl_angular](https://twitter.com/stl_angular)
+* URL: [https://www.meetup.com/STL-Angular/](https://www.meetup.com/STL-Angular/)
+---
+
+## Tampa Bay Angular Meetup
+* Location: Tampa Bay
+* Twitter: [@angularJSTampa](https://twitter.com/angularjstampa?lang=en)
+* URL: [https://www.meetup.com/Tampa-Bay-Angular-Meetup/]()https://www.meetup.com/Tampa-Bay-Angular-Meetup/
+---
+
+## Ahmedabad AngularJS
+* Location: Ahmedabad, india
+* URL: [https://www.meetup.com/Ahmedabad-AngularJS/](https://www.meetup.com/Ahmedabad-AngularJS/)
+---
+
+![athens-angular](https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg)
+## Angular Athens
+* Location:Athens, Greece
+* Twitter: [@AthensAngular](https://twitter.com/AthensAngular)
+* URL: [https://www.meetup.com/Angular-Athens](https://www.meetup.com/Angular-Athens)
+---
+
+![ng-brum](https://pbs.twimg.com/profile_images/989263965426470914/NvCmzUH-_400x400.jpg)
+## Angular Birmingham
+* Location: Birmingham
+* Twitter: [@ngbrum](https://twitter.com/ngbrum)
+* URL: [https://www.meetup.com/Angular-Birmingham/](https://www.meetup.com/Angular-Birmingham/)
+---
+
+![athens-angular](https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg)
+## Angular Brisbane
+* Location: Brisbane, Australia
+* URL: [https://www.meetup.com/Angular-Brisbane](https://www.meetup.com/Angular-Brisbane/)
+---
+
+## Angular IL
+* Location: Tel Aviv-Yafo, Israel
+* URL: [https://www.meetup.com/Angular-IL/](https://www.meetup.com/Angular-IL/)
+---
+
+## Angular Korea
+* Location: Korea
+* URL: [https://www.meetup.com/Angular-Korea-Meetup/](https://www.meetup.com/Angular-Korea-Meetup/)
+---
+
+## Angular Lviv
+* Location: Lviv
+* URL: [https://www.meetup.com/Angular-Lviv/](https://www.meetup.com/Angular-Lviv/)
+---
+
+## Angular St Louis Angular Lunch
+* Location: St Louis, MO
+* URL: [https://www.meetup.com/Angular-Lunch/](https://www.meetup.com/Angular-Lunch/)
+---
+
+## Angular MTV / GDG
+* Location: Mountain View, CA
+* URL: [https://www.meetup.com/Angular-MTV/](https://www.meetup.com/Angular-MTV/)
+---
+
+## Angular Nights
+* Location: Tel Aviv-Yafo
+* URL: [https://www.meetup.com/Angular-Nights/](https://www.meetup.com/Angular-NIghts/)
+---
+
+## Angular SF
+* Location: San Francisco, SF
+* URL: [https://www.meetup.com/Angular-SF/](https://www.meetup.com/Angular-SF/)
+---
+
+## Angular Sofía
+* Location: Sofia, Bulgaria
+* URL: [https://www.meetup.com/Angular-sofia/](https://www.meetup.com/Angular-sofia/)
+---
+
+![ng-stuttgart](https://pbs.twimg.com/profile_images/1045599829655789570/LXf_cxwq_400x400.jpg)
+## Angular Stuttgart
+* Location: Stuttgart, Germany
+* Twitter: [@NgStuttgart](https://twitter.com/ngstuttgart?lang=en)
+* URL: [https://www.meetup.com/angular-users-stuttgart/](https://www.meetup.com/angular-users-stuttgart/)
+---
+
+![ng-warsaw](https://pbs.twimg.com/profile_images/913024944933625857/TJV45SWW_400x400.jpg)
+## Angular Warsaw
+* Location: Warsaw, Poland
+* Twitter: [@AngularWarsaw](https://twitter.com/AngularWarsaw)
+* URL: [https://www.meetup.com/angular-warsaw](https://www.meetup.com/angular-warsaw/)
+---
+
+## Angular BH
+* Location: Belo Horizonte
+* URL: [https://www.meetup.com/angularBH](https://www.meetup.com/angularBH/)
+---
+
+![ng-DC](https://pbs.twimg.com/profile_images/987818141031034882/rkrD4ODB_400x400.jpg)
+## Angular DC
+* Location: Washington, DC
+* Twitter: [@Angulardc](https://twitter.com/AngularDC)
+* URL: [https://www.meetup.com/angularDC](https://www.meetup.com/angularDC/)
+---
+
+## AngularJS Amsterdam
+* Location: Amsterdam
+* Twitter: [@angularnl](https://twitter.com/angularnl?lang=en)
+* URL: [https://www.meetup.com/AngularJS-Amsterdam-Meetup](https://www.meetup.com/AngularJS-Amsterdam-Meetup)
+---
+
+## AngularJS Chicago
+* Location: Chicago
+* Twitter: [@ngChicago](https://twitter.com/ngChicago)
+* URL: [https://www.meetup.com/AngularJS-Chicago](https://www.meetup.com/AngularJS-Chicago)
+---
+
+## AngularJS DFW Area
+* Location: Addison, Texas
+* URL: [https://www.meetup.com/AngularJS-DFW-Area](https://www.meetup.com/AngularJS-DFW-Area)
+---
+
+## AngularJS Istanbul
+* Location: Istanbul
+* Twitter: [@angularistanbul](https://twitter.com/angularistanbul)
+* URL: [https://www.meetup.com/AngularJS-Istanbul](https://www.meetup.com/AngularJS-Istanbul)
+---
+
+## AngularJS London
+* Location: London
+* URL: [https://www.meetup.com/AngularJS-London](https://www.meetup.com/AngularJS-London)
+---
+
+## AngularJS Ludhiana
+* Location: Ludhiana, India
+* URL: [https://www.meetup.com/Angularjs-Ludhiana-Meetup](https://www.meetup.com/Angularjs-Ludhiana-Meetup)
+---
+
+## AngularJS Santa Barbara
+* Location: Santa Barbara
+* URL: [https://www.meetup.com/Angularjs-Santa-Barbara](https://www.meetup.com/Angularjs-Santa-Barbara)
+---
+
+## AngularJS Sao Paulo
+* Location: Sao Paulo
+* URL: [https://www.meetup.com/Angularjs-Sao-Paulo](https://www.meetup.com/Angularjs-Sao-Paulo)
+---
+
+## AngularLabs London
+* Location: London
+* URL: [https://www.meetup.com/AngularLabs](https://www.meetup.com/AngularLabs)
+---
+
+## Angular Piter
+* Location: St Petersburg
+* URL: [https://www.meetup.com/AngularPiter](https://www.meetup.com/AngularPiter)
+---
+
+## Dallas Angular SuperHeros
+* Location: Addison, Texas
+* URL: [https://www.meetup.com/DallasAngularJS](https://www.meetup.com/DallasAngularJS)
+---
+
+## Detroit Angular
+* Location: Detroit
+* URL: [https://www.meetup.com/DetroitAngular](https://www.meetup.com/DetroitAngular)
+---
+
+## Dun Laoghaire Node/Angular/Meteor/React
+* Location: Dublin
+* URL: [https://www.meetup.com/Dun-Laoghaire-node-Meetup](https://www.meetup.com/Dun-Laoghaire-node-Meetup)
+---
+
+## Angular Columbus
+* Location: Columbus, OH
+* URL: [https://www.meetup.com/ng-columbus](https://www.meetup.com/ng-columbus)
+---
+
+## RTP Angular.js
+* Location: Raleigh, NC
+* URL: [https://www.meetup.com/RTP-AngularJs](https://www.meetup.com/RTP-AngularJs)
+---
+
+## Wellington AngularJS
+* Location: Wellington, New Zealand
+* URL: [https://www.meetup.com/Wellington-AngularJS-Meetup](https://www.meetup.com/Wellington-AngularJS-Meetup)
+---
