@@ -171,3 +171,11 @@ Angular Denver is a 2-day conference that takes place at The Curtis Hotel in Dow
 * Twitter: [@AngularDenver](https://twitter.com/AngularDenver)
 * URL: [https://angulardenver.com/](https://angulardenver.com/)
 ---
+
+![ngTalks](https://uploads-ssl.webflow.com/5c12bcad002f304915b8c7ea/5c1cdd39ea7f43e0c2c62b63_ngtalks2019_logo_white.svg)
+## ngTalks
+1300 attendees, 25+ speakers coming from all corners of the Earth, 1 track and over 25+ Angular-related talks! Geez!
+* Location: Kharkov, Ukraine
+* Twitter: [@ngTalks_ua](https://twitter.com/ngTalks_ua)
+* URL: [https://ngtalks.io/](https://ngtalks.io/)
+---
