@@ -799,3 +799,10 @@ The home of the Rocky Mountain Angular meetup group.
 * Location: Wellington, New Zealand
 * URL: [https://www.meetup.com/Wellington-AngularJS-Meetup](https://www.meetup.com/Wellington-AngularJS-Meetup)
 ---
+
+![ngSriLanka](https://pbs.twimg.com/profile_images/1070172797505159169/zWnDH63H_200x200.jpg)
+## ngSriLanka
+Sri Lanka's first ever angular conference
+* Location: Colombo, Sri Lanka
+* Twitter: [@ngslconf](https://twitter.com/ngslconf)
+* URL: [http://ng-srilanka.com/](http://ng-srilanka.com/)
