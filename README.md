@@ -804,5 +804,5 @@ The home of the Rocky Mountain Angular meetup group.
 ## ngSriLanka
 Sri Lanka's first ever angular conference
 * Location: Colombo, Sri Lanka
-* Twitter: [@ngslconf]https://twitter.com/ngslconf)
+* Twitter: [@ngslconf](https://twitter.com/ngslconf)
 * URL: [http://ng-srilanka.com/](http://ng-srilanka.com/)
