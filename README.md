@@ -428,7 +428,7 @@ Get updates related to #AngularJS in and around Munich
 ## AngularNYC
 New York AngularJS Meetup
 * Location: New York
-* Twitter: [@ngNewYork](https://twitter.com/ngNewYork)
+* Twitter: [@AngularNYC](https://twitter.com/AngularNYC)
 * URL: [http://meetup.com/AngularNYC](http://meetup.com/AngularNYC)
 ---
 
