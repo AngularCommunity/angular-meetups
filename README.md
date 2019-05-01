@@ -260,9 +260,9 @@ Angular Oslo Meetup’s mission is to help web front-end developers with selecti
 
 ![ngMorocco](https://pbs.twimg.com/profile_images/750252030485270528/fWc-y2ki_normal.jpg)
 ## ngMorocco
-The Moroccan #AngularJS Developer Community
-https://t.co/s5ORv8zuah
-* Location: Royaume du Maroc
+The Moroccan Angular Developer Community
+http://ngmorocco.github.io/
+* Location: The Kingdom of Morocco
 * Twitter: [@ngMorocco](https://twitter.com/ngMorocco)
 * URL: [http://www.meetup.com/ngMorocco](http://www.meetup.com/ngMorocco)
 ---
