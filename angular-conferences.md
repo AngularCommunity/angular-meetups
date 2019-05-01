@@ -80,7 +80,8 @@ Ng-cruise by ng-conf. The first Angular cruise conference. Cruising May 29, 2017
 * URL: [http://ngcruise.com](http://ngcruise.com)
 ---
 
-![NG-BE 🖤💛❤️](https://pbs.twimg.com/profile_images/1026889205941710848/KQEQUnZE_normal.jpg)
+<img src="https://static1.squarespace.com/static/5b7b64d52714e503eebf914c/t/5b7b7dda758d462bead7e54c/1555230695167/?format=1500w" width="48">
+
 ## NG-BE 🖤💛❤️
 Belgium's annual Angular Conference - Holiday Inn Ghent Expo | 5-6 December 2019 #ngbe
 * Location: Ghent, Belgium
