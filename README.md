@@ -18,6 +18,14 @@ See also:
 
 ---
 
+<img src="https://static1.squarespace.com/static/5b7b64d52714e503eebf914c/t/5b7b7dda758d462bead7e54c/1555230695167/?format=1500w" width="60">
+
+## Angular Belgium
+🅰️ngular Belgium Meetup, organised by [@samvloeberghs](https://twitter.com/samvloeberghs) and [@jvandemo](https://twitter.com/jvandemo) from [@innovatus_bvba](https://twitter.com/innovatus_bvba) 🆖➡️ Official Hashtag: #ngbe
+* Location: Belgium
+* URL: [https://www.meetup.com/Angular-Belgium/](https://www.meetup.com/Angular-Belgium/)
+---
+
 ![Angular Heidelberg](https://pbs.twimg.com/profile_images/1073947045029969921/rpord4qt_normal.jpg)
 ## Angular Heidelberg
 🅰️#Angular #Heidelberg Meetup, organised by @JohannesHoppe from @angular_schule 🆖➡️ Official Hashtag: #ngHeidelberg
