@@ -9,6 +9,14 @@ See also:
 
 ---
 
+![angularday](https://pbs.twimg.com/profile_images/1118451217309609984/DiZ0M3wW_400x400.png)
+## angularday
+The first and longest running Angular Conference in Italy! Conference will take place on June 14th, workshop (in Italian) on June 13. Organized by [@grusp](https://twitter.com/grusp).
+* Location: Verona, Italy
+* Twitter: [@angularday](https://twitter.com/angularday)
+* URL: [https://angularday.it](https://angularday.it)
+---
+
 ![NGRomeConf](https://pbs.twimg.com/profile_images/1090957096101822467/k6tT0dzE_normal.jpg)
 ## NGRomeConf
 The biggest Italian Angular Conference is taking place at NGRome this year on October 7th at the Teatro Manzoni. 🇮🇹
