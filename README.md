@@ -821,3 +821,9 @@ Sri Lanka's first ever angular conference
 * Facebook Page: [https://www.facebook.com/angularth](https://www.facebook.com/angularth)
 * Twitter: [https://twiter/angularthailand](https://twiter/angularthailand)
 
+## Angular Nigeria
+🅰️ngular Nigeria Meetup, organised by [@Ot_kelechi](https://twitter.com/Ot_kelechi) and [@ayodeleopetumo](https://twitter.com/ayodeleopetumo) 🆖➡️ Official Hashtag: #ngNigeria
+* Location: Lagos,Nigeria
+* URL: [https://www.meetup.com/ng-nigeria](https://www.meetup.com/ng-nigeria)
+---
+
