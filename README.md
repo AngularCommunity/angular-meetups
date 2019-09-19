@@ -814,16 +814,24 @@ Sri Lanka's first ever angular conference
 * Location: Colombo, Sri Lanka
 * Twitter: [@ngslconf](https://twitter.com/ngslconf)
 * URL: [http://ng-srilanka.com/](http://ng-srilanka.com/)
+---
 
 ## Angular Thailand
 * Location: Bangkok, Thailand
 * Facebook Group: [https://www.facebook.com/groups/angularjs.th](https://www.facebook.com/groups/angularjs.th)
 * Facebook Page: [https://www.facebook.com/angularth](https://www.facebook.com/angularth)
 * Twitter: [https://twiter/angularthailand](https://twiter/angularthailand)
+---
 
 ## Angular Nigeria
 🅰️ngular Nigeria Meetup, organised by [@Ot_kelechi](https://twitter.com/Ot_kelechi) and [@ayodeleopetumo](https://twitter.com/ayodeleopetumo) 🆖➡️ Official Hashtag: #ngNigeria
 * Location: Lagos,Nigeria
 * URL: [https://www.meetup.com/ng-nigeria](https://www.meetup.com/ng-nigeria)
+---
+
+![Angular-Silesia](https://s3.amazonaws.com/media-p.slid.es/uploads/618884/images/5352828/angular_meetup_logo_RGB.png)
+## Angular Silesia
+* Location: Silesia, Poland
+* URL: [https://www.meetup.com/Angular-Silesia/](https://www.meetup.com/Angular-Silesia/)
 ---
 
