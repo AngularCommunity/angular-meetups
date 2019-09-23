@@ -416,12 +416,15 @@ We love #Javascript development #HTML5 #NodeJS #WebDev #Talks #Events #Hackathon
 * URL: [http://www.meetup.com/AngularJS-IL/](http://www.meetup.com/AngularJS-IL/)
 ---
 
-![AngularJS Zürich](https://pbs.twimg.com/profile_images/435011642359705600/lMLPb1R2_normal.png)
-## AngularJS Zürich
-AngularJS meetup in Zürich, CH  - share, learn, network and have fun!
-* Location: Zürich
+![Angular Zürich](https://pbs.twimg.com/profile_images/435011642359705600/lMLPb1R2_normal.png)
+## Angular Zürich
+Angular meetup in Zürich - share, learn, network and have fun!
+* Location: Zürich, Switzerland
+* URL: [angularzurich.dev](https://angularzurich.dev/)
 * Twitter: [@AjsZrh](https://twitter.com/AjsZrh)
-* URL: [http://www.meetup.com/AngularJS-ZRH/](http://www.meetup.com/AngularJS-ZRH/)
+* Meetup: [meetup.com/AngularZRH/](https://www.meetup.com/AngularZRH/)
+* YouTube: [YouTube Channel](https://www.youtube.com/channel/UC3dvhlLD9QsFwe3H0HrFJLg)
+* Slack: [Slack Channel](https://join.slack.com/t/angularzurich/shared_invite/enQtNzA4NzY4NzQ3NTI3LWYyYTE5OGUwYTAwYzBjMzMyMjMwMWRjNmNiODRiZWUwNGE4MTEzNzJlZWVjNTlmOGQ0YzE2OTg4NmRiNThhYWU)
 ---
 
 ![Angular Munich Usergroup](https://pbs.twimg.com/profile_images/544844963993751552/jR9_hfL3_normal.png)
