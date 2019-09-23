@@ -855,6 +855,6 @@ Right now we have 3 good angular libraries in our GitHub repo.
 - Meetup: [ngturkey](https://www.meetup.com/ngturkey/)
 - Twitter: [@ngTurkiye](https://twitter.com/ngTurkiye)
 - GitHub: [@ng-turkey](https://github.com/ng-turkey)
-- Slack: [angularkc](https://ngturkey.slack.com)
+- Slack: [ngturkey](https://ngturkey.slack.com)
 
 ---
