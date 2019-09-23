@@ -510,8 +510,7 @@ Angular Meetup Berlin
 Das deutsche Portal zu @angular - News, Events, Meetups, Workshops
 * Location: Germany
 * Twitter: [@angular_de](https://twitter.com/angular_de)
-* URL: [https://angular.de](https://angular.de)
-* Slack: [Invite](https://angular.de/slack)
+* URL: [https://angularjs.de](https://angularjs.de)
 ---
 
 ![ngWeber](https://pbs.twimg.com/profile_images/1088704325063340032/LbyKT4g1_400x400.jpg)
@@ -837,5 +836,12 @@ Sri Lanka's first ever angular conference
 ## Angular Silesia
 * Location: Silesia, Poland
 * URL: [https://www.meetup.com/Angular-Silesia/](https://www.meetup.com/Angular-Silesia/)
+---
+
+## Angular Ruhr
+Official account for the #AngularRuhr Meetup by @robinboehm @thiele_leonard and @stardustlabs
+* Location: Ruhr Area(Essen, Bochum, Dortmund, ...), Germany
+* Twitter: [https://twitter.com/angularruhr](https://twitter.com/angularruhr)
+* URL: [https://www.meetup.com/Angular-Ruhr/](https://www.meetup.com/Angular-Ruhr/)
 ---
 
