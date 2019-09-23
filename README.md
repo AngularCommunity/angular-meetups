@@ -421,7 +421,7 @@ We love #Javascript development #HTML5 #NodeJS #WebDev #Talks #Events #Hackathon
 Angular meetup in Zürich - share, learn, network and have fun!
 * Location: Zürich, Switzerland
 * URL: [angularzurich.dev](https://angularzurich.dev/)
-* Twitter: [@AjsZrh](https://twitter.com/AjsZrh)
+* Twitter: [@AngularZurich](https://twitter.com/AngularZurich)
 * Meetup: [meetup.com/AngularZRH/](https://www.meetup.com/AngularZRH/)
 * YouTube: [YouTube Channel](https://www.youtube.com/channel/UC3dvhlLD9QsFwe3H0HrFJLg)
 * Slack: [Slack Channel](https://join.slack.com/t/angularzurich/shared_invite/enQtNzA4NzY4NzQ3NTI3LWYyYTE5OGUwYTAwYzBjMzMyMjMwMWRjNmNiODRiZWUwNGE4MTEzNzJlZWVjNTlmOGQ0YzE2OTg4NmRiNThhYWU)
