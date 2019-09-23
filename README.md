@@ -846,15 +846,12 @@ Official account for the #AngularRuhr Meetup by @robinboehm @thiele_leonard and 
 ---
 
 ![Angular Turkey](https://pbs.twimg.com/profile_images/1094861063949074432/sWMXLmv__400x400.jpg)
-
 ## Angular Turkey
-
 Angular meetup in Turkey. Monthly meetups and building a collaborative Angular community in Turkey. We're publishing Turkish articles, examples, helpful resource for Turkish developer.
 Right now we have 3 good angular libraries in our GitHub repo.
-
-- Meetup: [ngturkey](https://www.meetup.com/ngturkey/)
-- Twitter: [@ngTurkiye](https://twitter.com/ngTurkiye)
-- GitHub: [@ng-turkey](https://github.com/ng-turkey)
-- Slack: [ngturkey](https://ngturkey.slack.com)
-
+* Location: Turkey
+* URL: [ngturkey](https://www.meetup.com/ngturkey/)
+* Twitter: [@ngTurkiye](https://twitter.com/ngTurkiye)
+* GitHub: [@ng-turkey](https://github.com/ng-turkey)
+* Slack: [ngturkey](https://ngturkey.slack.com)
 ---
