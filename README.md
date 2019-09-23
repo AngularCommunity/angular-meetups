@@ -852,7 +852,6 @@ Official account for the #AngularRuhr Meetup by @robinboehm @thiele_leonard and 
 Angular meetup in Turkey. Monthly meetups and building a collaborative Angular community in Turkey. We're publishing Turkish articles, examples, helpful resource for Turkish developer.
 Right now we have 3 good angular libraries in our GitHub repo.
 
-- Location: Kansas City metropolitan area serving both MO and KS
 - Meetup: [ngturkey](https://www.meetup.com/ngturkey/)
 - Twitter: [@ngTurkiye](https://twitter.com/ngTurkiye)
 - GitHub: [@ng-turkey](https://github.com/ng-turkey)
