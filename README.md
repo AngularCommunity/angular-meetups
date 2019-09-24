@@ -7,6 +7,19 @@ See also:
 
 ---
 
+<img src="https://drive.google.com/file/d/14iwyOzz9QncpQlFa-1lAv5Ts68WdMK69/view?usp=sharing" width="60">
+
+## Angular Quito
+La comunidad Angular Quito es para todos aquellos apasionados por la tecnología web y Angular,
+sean expertos o principiantes aprenderemos de experiencias y conocimientos de buenas prácticas junto a miembros de nuestra comunidad Angular Hispano.
+
+* Location: Quito, Ecuador
+* Meetup: [Angular Quito](https://www.meetup.com/angularQuito)
+* Twitter: [@AngularQuito](https://twitter.com/AngularQuito)
+* YouTube: [Angular Quito](https://www.youtube.com/channel/UC4n2eh98PGvJDbxGn2ajJjA)
+
+---
+
 <img src="https://secure.meetupstatic.com/photos/event/c/9/b/4/global_478491636.jpeg" width="60">
 
 ## Niederrhein Valley
