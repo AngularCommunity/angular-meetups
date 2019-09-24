@@ -195,3 +195,4 @@ Angular Meetup Dresden, organised by [@g_doroschenko](https://twitter.com/g_doro
 * Location: Dresden, Germany
 * Twitter: [@ngDresden](https://twitter.com/ngDresden)
 * URL: [https://angular-dresden.de](https://angular-dresden.de)
+---
