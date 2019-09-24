@@ -868,3 +868,11 @@ Right now we have 3 good angular libraries in our GitHub repo.
 * GitHub: [@ng-turkey](https://github.com/ng-turkey)
 * Slack: [ngturkey](https://ngturkey.slack.com)
 ---
+
+![ngDresden](https://pbs.twimg.com/profile_images/1105542545294147584/HhMe68CB_400x400.png)
+## Angular Dresden
+Angular Meetup Dresden, organised by [@g_doroschenko](https://twitter.com/g_doroschenko). Welcome for everybody. Hashtag: #ngDresden
+* Location: Dresden, Germany
+* Twitter: [@ngDresden](https://twitter.com/ngDresden)
+* URL: [https://angular-dresden.de](https://angular-dresden.de)
+---
