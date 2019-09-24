@@ -6,9 +6,7 @@ See also:
 * [Ionic events](https://github.com/AngularCommunity/angular-meetups/blob/master/ionic-meetups.md)
 
 ---
-
-<img src="https://drive.google.com/file/d/14iwyOzz9QncpQlFa-1lAv5Ts68WdMK69/view?usp=sharing" width="60">
-
+![Angular Quito](https://pbs.twimg.com/media/EFP-bCpWsAMwDfT?format=jpg&name=4096x4096)
 ## Angular Quito
 La comunidad Angular Quito es para todos aquellos apasionados por la tecnología web y Angular,
 sean expertos o principiantes aprenderemos de experiencias y conocimientos de buenas prácticas junto a miembros de nuestra comunidad Angular Hispano.
