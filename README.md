@@ -876,7 +876,8 @@ Angular Meetup Dresden, organised by [@g_doroschenko](https://twitter.com/g_doro
 ---
 
 ## Pune Tech Meetup
-Pune Tech Meetup, organised by [@Santosh19742211](https://twitter.com/Santosh19742211). Welcome for everybody. Hashtag: #ngDresden
+Pune Tech Meetup, organised by [@Santosh19742211](https://twitter.com/Santosh19742211). We conduct free workshop for community. Hashtag: #ngPuneTech
 * Location: Pune, India
 * Twitter: [@Santosh19742211](https://twitter.com/Santosh19742211)
+* Meetup : [Pune Tech Meetup](https://meetup.com/Pune-Tech-Meetup)
 ---
