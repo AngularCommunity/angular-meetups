@@ -884,3 +884,9 @@ Pune Tech Meetup, organised by [@Santosh19742211](https://twitter.com/Santosh197
 * Twitter: [@Santosh19742211](https://twitter.com/Santosh19742211)
 * Meetup : [Pune Tech Meetup](https://meetup.com/Pune-Tech-Meetup)
 ---
+
+## Angular Rio de Janeiro
+* Location: Rio de Janeiro
+* URL: [https://www.meetup.com/pt-BR/Angular-RJ](https://www.meetup.com/pt-BR/Angular-RJ)
+---
+
