@@ -729,7 +729,7 @@ The home of the Rocky Mountain Angular meetup group.
 ---
 
 <img src="https://pbs.twimg.com/profile_images/913024944933625857/TJV45SWW_400x400.jpg" width="60px">
-![ng-warsaw]()
+
 ## Angular Warsaw
 * Location: Warsaw, Poland
 * Twitter: [@AngularWarsaw](https://twitter.com/AngularWarsaw)
@@ -741,7 +741,8 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/angularBH](https://www.meetup.com/angularBH/)
 ---
 
-![ng-DC](https://pbs.twimg.com/profile_images/987818141031034882/rkrD4ODB_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/987818141031034882/rkrD4ODB_400x400.jpg" width="60px">
+
 ## Angular DC
 * Location: Washington, DC
 * Twitter: [@Angulardc](https://twitter.com/AngularDC)
