@@ -6,7 +6,7 @@ See also:
 * [Ionic events](https://github.com/AngularCommunity/angular-meetups/blob/master/ionic-meetups.md)
 
 ---
-![Angular Quito](https://pbs.twimg.com/media/EFP-bCpWsAMwDfT?format=jpg&name=4096x4096)
+<img src="https://pbs.twimg.com/media/EFP-bCpWsAMwDfT?format=jpg&name=4096x4096" alt="Angular Quito" width="60">
 ## Angular Quito
 La comunidad Angular Quito es para todos aquellos apasionados por la tecnología web y Angular,
 sean expertos o principiantes aprenderemos de experiencias y conocimientos de buenas prácticas junto a miembros de nuestra comunidad Angular Hispano.
@@ -524,7 +524,7 @@ Das deutsche Portal zu @angular - News, Events, Meetups, Workshops
 * URL: [https://angularjs.de](https://angularjs.de)
 ---
 
-![ngWeber](https://pbs.twimg.com/profile_images/1088704325063340032/LbyKT4g1_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1088704325063340032/LbyKT4g1_400x400.jpg" width="60">
 ## ngWeber
 Angular meetup (online and in person) in Weber County, UT
 * Location: Weber County, UT
@@ -578,7 +578,7 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/Angular_Madrid/](https://www.meetup.com/Angular_Madrid/)
 ---
 
-![Angular Montreal](https://pbs.twimg.com/profile_images/1012833845110960128/HUbWwE7Y_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1012833845110960128/HUbWwE7Y_400x400.jpg" alt="Angular Montreal" width="60">
 ## Angular Montreal
 * Location: Montreal
 * URL: [https://www.meetup.com/Angular-Montreal/](https://www.meetup.com/Angular-Montreal/)
@@ -635,7 +635,7 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/RVAngular/](https://www.meetup.com/RVAngular/)
 ---
 
-![stl-angular](https://pbs.twimg.com/profile_images/1084587987185201154/CuYYRehZ_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1084587987185201154/CuYYRehZ_400x400.jpg" alt="stl-angular" width="60">
 ## STL Angular Meetup
 * Location: STL Angular
 * Twitter: [@stl_angular](https://twitter.com/stl_angular)
@@ -653,21 +653,21 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/Ahmedabad-AngularJS/](https://www.meetup.com/Ahmedabad-AngularJS/)
 ---
 
-![athens-angular](https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg" alt="athens-angular" width="60">
 ## Angular Athens
 * Location:Athens, Greece
 * Twitter: [@AthensAngular](https://twitter.com/AthensAngular)
 * URL: [https://www.meetup.com/Angular-Athens](https://www.meetup.com/Angular-Athens)
 ---
 
-![ng-brum](https://pbs.twimg.com/profile_images/989263965426470914/NvCmzUH-_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/989263965426470914/NvCmzUH-_400x400.jpg" width="60">
 ## Angular Birmingham
 * Location: Birmingham
 * Twitter: [@ngbrum](https://twitter.com/ngbrum)
 * URL: [https://www.meetup.com/Angular-Birmingham/](https://www.meetup.com/Angular-Birmingham/)
 ---
 
-![athens-angular](https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1009715337439391745/M2alaflT_400x400.jpg" width="60">
 ## Angular Brisbane
 * Location: Brisbane, Australia
 * URL: [https://www.meetup.com/Angular-Brisbane](https://www.meetup.com/Angular-Brisbane/)
@@ -713,14 +713,15 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/Angular-sofia/](https://www.meetup.com/Angular-sofia/)
 ---
 
-![ng-stuttgart](https://pbs.twimg.com/profile_images/1045599829655789570/LXf_cxwq_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/913024944933625857/TJV45SWW_400x400.jpg" width="60px">
 ## Angular Stuttgart
 * Location: Stuttgart, Germany
 * Twitter: [@NgStuttgart](https://twitter.com/ngstuttgart?lang=en)
 * URL: [https://www.meetup.com/angular-users-stuttgart/](https://www.meetup.com/angular-users-stuttgart/)
 ---
 
-![ng-warsaw](https://pbs.twimg.com/profile_images/913024944933625857/TJV45SWW_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/913024944933625857/TJV45SWW_400x400.jpg" width="60px">
+![ng-warsaw]()
 ## Angular Warsaw
 * Location: Warsaw, Poland
 * Twitter: [@AngularWarsaw](https://twitter.com/AngularWarsaw)
@@ -859,7 +860,7 @@ Official account for the #AngularRuhr Meetup by @robinboehm @thiele_leonard and 
 * URL: [https://www.meetup.com/Angular-Ruhr/](https://www.meetup.com/Angular-Ruhr/)
 ---
 
-![Angular Turkey](https://pbs.twimg.com/profile_images/1094861063949074432/sWMXLmv__400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1094861063949074432/sWMXLmv__400x400.jpg" width="60">
 ## Angular Turkey
 Angular meetup in Turkey. Monthly meetups and building a collaborative Angular community in Turkey. We're publishing Turkish articles, examples, helpful resource for Turkish developer.
 Right now we have 3 good angular libraries in our GitHub repo.
