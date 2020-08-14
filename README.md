@@ -625,9 +625,12 @@ The home of the Rocky Mountain Angular meetup group.
 * URL: [https://www.meetup.com/angularRome/](https://www.meetup.com/angularRome/)
 ---
 
-## Dutch AngularJS Group
+<img src="https://raw.githubusercontent.com/maartentibau/angular-logos/master/logos/dutch-angular-group.svg" width="60">
+
+## Dutch Angular Group
 * Location: Utrecht, Netherlands
-* URL: [https://www.meetup.com/Dutch-AngularJS-group/](https://www.meetup.com/Dutch-AngularJS-group/)
+* URL: [https://www.meetup.com/Dutch-Angular-group/](https://www.meetup.com/Dutch-Angular-group/)
+* Twitter: [@AngularDutch](https://twitter.com/AngularDutch)
 ---
 
 ## RVAngular
