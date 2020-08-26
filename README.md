@@ -202,6 +202,16 @@ The only common thing between angular and angularjs is the name
 * URL: [https://www.meetup.com/fr-FR/AngularX-Paris](https://www.meetup.com/fr-FR/AngularX-Paris)
 ---
 
+![Angular_Kharkiv](https://pbs.twimg.com/profile_images/1285177576277921792/jH9K3_Kd_400x400.jpg)
+## Angular Kharkiv
+* Location: Kharkiv, Ukraine
+* Twitter: [@ngkharkiv](https://twitter.com/ngkharkiv)
+* Youtube: [AngularKharkiv](https://www.youtube.com/c/AngularKharkiv)
+* Telegram: [t.me/ngkha](https://t.me/ngkha)
+* Facebook: [https://www.facebook.com/angularkharkiv/](https://www.facebook.com/angularkharkiv/)
+---
+
+
 ![AngularToulouse](https://pbs.twimg.com/profile_images/766572312787288069/zpZJ7l4d_normal.jpg)
 ## AngularToulouse
 Meetups Angular. https://t.co/FNKTmEMv0X
