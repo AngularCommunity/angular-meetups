@@ -893,3 +893,10 @@ Pune Tech Meetup, organised by [@Santosh19742211](https://twitter.com/Santosh197
 * URL: [https://www.meetup.com/pt-BR/Angular-RJ](https://www.meetup.com/pt-BR/Angular-RJ)
 ---
 
+![ngDominican](https://avatars3.githubusercontent.com/u/49649604?s=200&v=4)
+## Angular Dominicana
+Angular Dominicana, organized by [@raymondcoplin](https://twitter.com/raymondcoplin) and Bezael Perez. We conduct free workshop for community. Hashtag: #ngDominican
+* Location: Dominican Republic
+* Twitter: [@ngDominican](https://twitter.com/ngDominican)
+* URL: [https://ngdominican.com](https://ngdominican.com)
+---
