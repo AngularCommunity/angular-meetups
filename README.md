@@ -905,3 +905,11 @@ Pune Tech Meetup, organised by [@Santosh19742211](https://twitter.com/Santosh197
 * URL: [https://www.meetup.com/pt-BR/Angular-RJ](https://www.meetup.com/pt-BR/Angular-RJ)
 ---
 
+---
+
+## ngDinner
+Monthly meetings of Angular developers with several presentations. Join us! We need your stories!
+* Location: Saint-Petersburg
+* URL: [https://github.com/ngDinner/Saint-Petersburg](https://github.com/ngDinner/Saint-Petersburg)
+* Telegram: https://t.me/AngularPiter
+---
