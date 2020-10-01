@@ -527,6 +527,15 @@ Angular Meetup Berlin
 * URL: [http://www.meetup.com/AngularJS-Meetup-Berlin/](http://www.meetup.com/AngularJS-Meetup-Berlin/)
 ---
 
+<img src="https://live.ngleipzig.de/assets/angular-leipzig-logo.png" width="48" alt="Angular Meetup Leipzig" />
+
+## ngLeipzig
+Angular Meetup Leipzig
+* Location: Leipzig
+* Twitter: [@ngLeipzig](https://twitter.com/ngLeipzig)
+* URL: [https://www.meetup.com/de-DE/Angular-Meetup-Leipzig/](https://www.meetup.com/de-DE/Angular-Meetup-Leipzig/)
+---
+
 ![Angular Germany](https://pbs.twimg.com/profile_images/1022786608309911552/Q26bnDIi_normal.jpg)
 ## Angular Germany
 Das deutsche Portal zu @angular - News, Events, Meetups, Workshops
