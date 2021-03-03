@@ -19,7 +19,7 @@ Organized by [@kuncevic](https://twitter.com/kuncevic)
 - Twitter: [@angularsydney](https://twitter.com/angularsydney)
 - Meetup: [meetup.com/angularsydney](https://meetup.com/en-AU/angularsydney)
 - YouTube: [youtube.com/channel/UCh48MtOnSd9l6CmbqUFrn0Q](https://youtube.com/channel/UCh48MtOnSd9l6CmbqUFrn0Q)
-- Website: [angularsydney.com](https://angularsydney.com)
+- Website: [angularsydney.org](https://angularsydney.org)
 
 ---
 
@@ -33,7 +33,7 @@ Organized by [@kuncevic](https://twitter.com/kuncevic) and [@diiceas](https://tw
 - Twitter: [@angularminsk](https://twitter.com/angularminsk)
 - Meetup: [meetup.com/angular-minsk](https://meetup.com/angular-minsk)
 - YouTube: [youtube.com/c/angularminsk](https://youtube.com/c/angularminsk)
-- Website: [angularminsk.com](https://angularminsk.com)
+- Website: [angularminsk.org](https://angularminsk.org)
 
 ---
 
