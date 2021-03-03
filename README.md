@@ -23,6 +23,20 @@ Organized by [@kuncevic](https://twitter.com/kuncevic)
 
 ---
 
+<img src="https://pbs.twimg.com/profile_images/1351811294702182401/QWLFPHQv_400x400.png" width="80" alt="Angular Sydney Meetup" />
+
+## Angular Minsk
+
+Organized by [@kuncevic](https://twitter.com/kuncevic) and [@diiceas](https://twitter.com/diiceas)
+
+- Location: Minsk, Belarus
+- Twitter: [@angularminsk](https://twitter.com/angularminsk)
+- Meetup: [meetup.com/angular-minsk](https://meetup.com/angular-minsk)
+- YouTube: [youtube.com/c/angularminsk](https://youtube.com/c/angularminsk)
+- Website: [angularminsk.com](https://angularminsk.com)
+
+---
+
 <img src="https://pbs.twimg.com/media/EFP-bCpWsAMwDfT?format=jpg&name=4096x4096" alt="Angular Quito" width="60">
 
 ## Angular Quito
