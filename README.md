@@ -845,7 +845,7 @@ Angular meetup (online and in person) in Weber County, UT
 
 ---
 
-![Angular Bolivia](https://pbs.twimg.com/profile_images/841389684584566784/WZnExC8e_normal.jpg)
+![Angular Bolivia](https://pbs.twimg.com/profile_images/1197679261349548033/R_3gfD4P_normal.jpg)
 
 ## Angular Bolivia
 
