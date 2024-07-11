@@ -797,15 +797,15 @@ La communauté Angular sur Paris. Parisian community of Angular enthusiasts orga
 
 ---
 
-![Angular Berlin](https://pbs.twimg.com/profile_images/3489893606/8cef6cd9f748d5c331e73dc17b011ece_normal.png)
+![Angular Berlin](https://pbs.twimg.com/profile_images/1729219640901951488/c4JxFpbx_400x400.jpg)
 
 ## Angular Berlin
 
 Angular Meetup Berlin
 
 - Location: Berlin
-- Twitter: [@angular_berlin](https://twitter.com/angular_berlin)
-- URL: [http://www.meetup.com/AngularJS-Meetup-Berlin/](http://www.meetup.com/AngularJS-Meetup-Berlin/)
+- Twitter: [@angular_berlin](https://x.com/angular_berlin)
+- URL: [[http://www.meetup.com/AngularJS-Meetup-Berlin/](https://www.meetup.com/angular-meetup-berlin/)]([http://www.meetup.com/AngularJS-Meetup-Berlin/](https://www.meetup.com/angular-meetup-berlin/))
 
 ---
 
